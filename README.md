@@ -1,3 +1,6 @@
+### Modeled After
+https://github.com/jedimonkey/avconv-docker
+
 Run AVConv / MKV tools from cli with Docker
 ================
 
